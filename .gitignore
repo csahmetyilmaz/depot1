@@ -1,0 +1,5 @@
+#Exclure le repertoire work/
+work/
+
+#Exclure tous les fichier .ini
+*.ini
